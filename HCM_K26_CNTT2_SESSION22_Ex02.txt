@@ -1,0 +1,18 @@
+SESSION22
+Bài 2 : Xử lý lỗi thư viện mã nguồn mở bằng GitHub Issues
+
+Tên lớp: HCM K26 CNTT2
+Môn học: Nhập môn công nghệ thông tin
+Họ và tên: LƯƠNG THANH THƯ
+
+
+1. Đặc điểm các bình luận được ưu tiên đọc trên GitHub Issues
+Lượt tương tác (Reactions) cao: Ưu tiên các bình luận có nhiều tim (❤️) hoặc ngón tay chỉ lên (👍) vì đó là giải pháp đã được nhiều người dùng khác xác nhận thành công.
+Tài khoản chính thức: Bình luận từ tác giả dự án hoặc người bảo trì (Owner, Member, Contributor).
+Nội dung kỹ thuật rõ ràng: Đưa ra đoạn mã ngắn gọn, ghi rõ phiên bản và cách cấu hình để sửa lỗi.
+
+2. Khái niệm Workaround & Lý do không chờ bản cập nhật chính thức
+Khái niệm Workaround:Là giải pháp/thủ thuật tạm thời giúp sửa lỗi cục bộ ngay lập tức để chương trình chạy được mà không sửa tận gốc vào mã nguồn chính của nhà sản xuất.
+Lý do không nên chờ bản cập nhật:
+Nhà phát triển mất nhiều thời gian (vài ngày đến vài tuần) để kiểm thử và phát hành phiên bản mới, nếu chờ đợi sẽ làm đình trệ tiến độ công việc/dự án.
+Áp dụng Workaround giúp lập trình viên chủ động gỡ lỗi (debug) và hiểu sâu hơn về công nghệ đang dùng.
